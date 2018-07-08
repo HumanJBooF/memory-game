@@ -1,0 +1,21 @@
+#memoryboard {
+    background: #ccc;
+    border: #999 1px solid;
+    width: 800px;
+    height: 540px;
+    padding: 24px;
+    margin: 0 auto;
+}
+
+#memoryboard  div {
+    background: rgba(255, 0, 0, 0.623);
+    border: 1px solid #000;
+    width: 71px;
+    height: 71px;
+    float: left;
+    margin: 10px;
+    padding: 20px;
+    font-size: 64px;
+    cursor: crosshair;
+    text-align: center;
+}
